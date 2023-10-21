@@ -1,0 +1,48 @@
+body {
+    font-family: 'Roboto'; /* Définit la police de caractères pour le corps du document */
+    color: 5272F2; /* Définit la couleur du texte pour le corps du document */
+    background: white; /* Définit un arrière-plan dégradé pour le corps du document */
+    margin: 0; /* Supprime les marges autour du corps du document */
+    padding: 0; /* Supprime les espaces intérieurs autour du corps du document */
+}   
+img {
+    display: block; /* Affiche l'image en tant que bloc, ce qui lui permet d'avoir des marges et des espaces intérieurs */
+    margin-left: auto; /* Centre horizontalement l'image */
+    margin-right: auto;
+    width: 50%; /* Définit la largeur de l'image à 50% de son conteneur parent */
+    border-radius: 10px; /* Arrondit les coins de l'image */
+}
+
+p  {
+    color: 5272F2;
+
+
+}
+a:hover{
+    color:yellow;
+}
+h1 {
+color: 5272F2;
+font-size:25px ;
+letter-spacing:10;
+margin-left:150px;
+}
+h2, h3, h4, h5, h6 {
+
+    color:FF6969 ;
+    font-size: 20px;
+
+}
+ol  {
+    color=green;
+}
+.container{
+    margin:50px auto;
+    width:700px;
+}
+.card-purple{
+    background-color: FBECB2;
+    padding:35px;
+    
+
+}
